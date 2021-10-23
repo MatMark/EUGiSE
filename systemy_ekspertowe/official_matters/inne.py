@@ -1,4 +1,35 @@
 name = "inne"
 question = "Sprawa dotyczy: "
 
-options = {}
+options = {
+    0	: 'Akredytacja dla dziennikarzy ',
+    1	: 'Jubileusz Długoletniego Pożycia Małżeńskiego/Złote Gody ',
+    2	: 'Lokalizacja ogródków gastronomicznych w pasie drogi publicznej',
+    3	: 'Lokalizacja reklam w pasie drogowym',
+    4	: 'Lokalizacja stojaków rowerowych na gruntach będących własnością Gminy Wrocław',
+    5	: 'Materiały promocyjne - wydawanie',
+    6	: 'Nadawanie nazw ulicom, placom i parkom na terenie Wrocławia',
+    7	: 'Nasz Wrocław (dot. URBANCARD, URBANCARD EP lub URBANCARD Premium)',
+    8	: 'Nieodpłatna pomoc prawna',
+    9	: 'Odznaka Honorowa Wrocławia „WROCŁAW Z WDZIĘCZNOŚCIĄ”',
+    10	: 'Patronat Honorowy Prezydenta Wrocławia ',
+    11	: 'Pomoc prawna w zakresie ochrony konsumentów',
+    12	: 'Pozwolenie konserwatorskie',
+    13	: 'Pozwolenie na sprowadzenie zwłok lub szczątków ludzkich z zagranicy w celu pochowania na terenie Wrocławia',
+    14	: 'Rejestr wyborców – udostępnienie rejestru wyborców',
+    15	: 'Rejestr wyborców – wpis do rejestru wyborców ',
+    16	: 'Tablice reklamowe/urządzenia reklamowe/szyldy na budynkach i wolnostojące',
+    17	: 'Udostępnianie dróg wewnętrznych na organizację autorskich prezentacji artystycznych ',
+    18	: 'Udostępnianie dróg wewnętrznych na organizację imprez plenerowych ',
+    19	: 'Udostępnianie fotografii (mediateka)',
+    20	: 'Udostępnianie organizacjom pozarządowym sal gimnastycznych przez szkoły prowadzone przez Miasto Wrocław w godzinach pozalekcyjnych',
+    21	: 'Usługa tłumaczenia języka migowego podczas wizyty w UMW ',
+    22	: 'Użycie znaków słowno-graficznych',
+    23	: 'Wpis do ewidencji obiektów świadczących usługi hotelarskie niebędących obiektami hotelarskimi oraz pól biwakowych',
+    24	: 'Wrocławska Nagroda Naukowa',
+    25	: 'Wybory na ławników ',
+    26	: 'Wynajem pracowni do prowadzenia działalności w dziedzinie kultury i sztuki',
+    27	: 'Wznoszenie pomników na terenie Wrocławia',
+    28	: 'Zezwolenie na prowadzenie  placówki wsparcia dziennego',
+    29	: 'Złożenie petycji',
+}

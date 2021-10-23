@@ -1,4 +1,6 @@
 name = "skargi i wnioski"
 question = "Sprawa dotyczy: "
 
-options = {}
+options = {
+    0: "Złożenie skargi lub wniosku",
+}
