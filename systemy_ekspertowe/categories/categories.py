@@ -1,6 +1,8 @@
 from official_matters import *
-
-cat_dict = {
+name = "Kategorie"
+question = "Sprawa dotyczy: "
+end = False
+options = {
     0: stan_cywilny,
     1: alkohol,
     2: architektura,

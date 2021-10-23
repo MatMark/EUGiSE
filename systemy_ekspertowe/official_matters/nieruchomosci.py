@@ -1,6 +1,6 @@
 name = "nieruchomości"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Bonifikata od opłat rocznych z tytułu użytkowania wieczystego nieruchomości stanowiących własność Gminy Wrocław (procedura realizowana przez WNK)	',
     1	: 'Czasowe udostępnianie gruntów Gminy Wrocław z przeznaczeniem na inwestycje liniowe',

@@ -1,6 +1,6 @@
 name = "prawo jazdy"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Pozwolenie na kierowanie tramwajem - wymiana',
     1	: 'Pozwolenie na kierowanie tramwajem – wydanie wtórnika',

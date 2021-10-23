@@ -1,6 +1,6 @@
 name = "inne"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Akredytacja dla dziennikarzy ',
     1	: 'Jubileusz Długoletniego Pożycia Małżeńskiego/Złote Gody ',

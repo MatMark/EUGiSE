@@ -1,6 +1,6 @@
 name = "środowisko, rolnictwo"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Decyzja o dopuszczalnym poziomie hałasu',
     1	: 'Decyzja o środowiskowych uwarunkowaniach dla planowanego przedsięwzięcia mogącego potencjalnie znacząco oddziaływać na środowisko',

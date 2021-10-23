@@ -1,6 +1,6 @@
 name = "sprawy meldunkowe"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Nadanie numeru PESEL",
     1: "Wymeldowanie z miejsca pobytu stałego i czasowego",

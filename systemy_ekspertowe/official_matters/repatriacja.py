@@ -1,6 +1,6 @@
 name = "repatriacja"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Repatriacja -  wnioski pracodawcy o zwrot części kosztów poniesionych na aktywizację zawodową  repatrianta",
     1: "Repatriacja - wniosek kandydata na repatrianta o zapewnienie warunków do osiedlenia się we Wrocławiu.",

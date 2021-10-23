@@ -1,6 +1,6 @@
 name = "działalność gospodarcza"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Rejestracja działalności gospodarczej ",
     1: "Rejestracja działalności gospodarczej - informacja o przedsiębiorcy ",

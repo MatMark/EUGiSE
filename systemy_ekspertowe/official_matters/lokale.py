@@ -1,6 +1,6 @@
 name = "lokale mieszkalne"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Lokale objęte najmem socjalnym oraz lokale przeznaczone na zaspokajanie potrzeb mieszkaniowych gospodarstw domowych o niskich dochodach",
     1: "Potwierdzenie uprawnień do lokalu mieszkalnego będącego własnością Gminy Wrocław",

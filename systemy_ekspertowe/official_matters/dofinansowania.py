@@ -1,6 +1,6 @@
 name = "dofinansowania, dotacje, zapomogi, stypendia"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: '1% stawki czynszu za pracownie dla twórców – Wrocławski Program Interwencji Społecznej',
     1	: 'Dofinansowanie kosztów kształcenia młodocianych pracowników',

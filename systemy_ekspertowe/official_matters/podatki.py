@@ -1,6 +1,6 @@
 name = "podatki, opłaty"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Deklaracja na podatek od nieruchomości',
     1	: 'Duplikat faktury VAT lub duplikat faktury korygującej VAT',

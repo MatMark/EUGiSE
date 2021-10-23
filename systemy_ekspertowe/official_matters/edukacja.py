@@ -1,6 +1,6 @@
 name = "edukacja, oświata"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Akademia Młodych Uczonych i Artystów ',
     1	: 'Konkurs na dofinansowanie projektów kół naukowych, organizacji i grup studenckich w ramach funduszu aktywności studenckich',

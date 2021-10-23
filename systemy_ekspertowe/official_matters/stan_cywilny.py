@@ -1,6 +1,6 @@
 name = "akta stanu cywilnego"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Akt małżeństwa - odpisy i zaświadczenia z rejestru stanu cywilnego",
     1: "Akt małżeństwa – odtworzenie aktu małżeństwa sporządzonego za granicą",

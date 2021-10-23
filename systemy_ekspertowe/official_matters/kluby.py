@@ -1,6 +1,6 @@
 name = "kluby, stowarzyszenia, organizacje"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Likwidacja klubu sportowego i uczniowskiego klubu sportowego',
     1	: 'Rozwiązanie stowarzyszenia zwykłego',

@@ -1,6 +1,6 @@
 name = "komunikacja, transport"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Identyfikatory zezwalające na dojazd do cmentarzy w okresie świąt zmarłych - w celach zaopatrzeniowych ',
     1	: 'Interwencja mieszkańców w sprawie organizacji ruchu w mieście – propozycje zmian zgłoszone przez mieszkańców ',

@@ -1,6 +1,6 @@
 name = "dowód osobisty"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Dowód osobisty - odbiór gotowego dokumentu ",
     1: "Dowód osobisty - zawiadomienie o utracie/uszkodzeniu dokumentu",

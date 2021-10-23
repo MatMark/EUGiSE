@@ -1,6 +1,6 @@
 name = "rejestracja pojazdów"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0	: 'Czasowe wycofanie pojazdu z ruchu',
     1	: 'Dodatkowa tablica rejestracyjna do oznaczenia bagażnika oraz jej wtórnik',

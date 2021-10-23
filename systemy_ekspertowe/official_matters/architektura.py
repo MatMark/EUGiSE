@@ -1,6 +1,6 @@
 name = "architektura, budownictwo, zagospodarowanie przestrzenne"
 question = "Sprawa dotyczy: "
-
+end = True
 options = {
     0: "Informacja o aktualnym etapie załatwiania sprawy w Wydziale Architektury i Budownictwa",
     1: "Odstępstwo od przepisów techniczno – budowlanych",
