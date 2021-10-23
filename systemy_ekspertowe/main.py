@@ -6,7 +6,7 @@ def user_input(max, question):
         val = input(question)
         try:
             p = int(val)
-            if(p <= max):
+            if(p <= max and p >= 0):
                 break
             else:
                 print("Wartość musi być liczbą całkowitą ≥ 0 i ≤ {}".format(max-1))
