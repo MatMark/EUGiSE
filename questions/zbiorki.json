@@ -1,0 +1,11 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Imprezy masowe",
+        "wip1": "Zgromadzenia publiczne"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null
+    }
+}

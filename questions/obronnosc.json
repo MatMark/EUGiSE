@@ -1,0 +1,13 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Informacja dotycząca udzielania świadczeń pieniężnych rekompensujących utracone wynagrodzenie żołnierzom rezerwy odbywającym ćwiczenia wojskowe",
+        "wip1": "Kwalifikacja wojskowa ",
+        "wip2": "Świadczenia na rzecz obrony"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null
+    }
+}

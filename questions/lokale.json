@@ -1,0 +1,21 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Lokale objęte najmem socjalnym oraz lokale przeznaczone na zaspokajanie potrzeb mieszkaniowych gospodarstw domowych o niskich dochodach",
+        "wip1": "Potwierdzenie uprawnień do lokalu mieszkalnego będącego własnością Gminy Wrocław",
+        "wip2": "Przedłużenie umowy najmu socjalnego lokalu i umowy najmu tymczasowego pomieszczenia",
+        "wip3": "Sprzedaż lokalu użytkowego na rzecz dotychczasowego najemcy ",
+        "wip4": "Wykup mieszkania na rzecz dotychczasowego najemcy",
+        "wip5": "Wykwaterowanie z lokalu mieszkalnego będącego własnością Gminy Wrocław ",
+        "wip6": "Zamiana mieszkania"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null,
+        "wip4": null,
+        "wip5": null,
+        "wip6": null
+    }
+}

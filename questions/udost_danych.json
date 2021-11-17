@@ -1,0 +1,15 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Dane osobowe – udostępnianie danych osobowych z rejestru mieszkańców i rejestru PESEL",
+        "wip1": "Udostępnienie danych z Rejestru Dowodów Osobistych",
+        "wip2": "Udostępnienie dokumentacji z zasobu archiwum zakładowego Urzędu Miejskiego Wrocławia",
+        "wip3": "Udostępnienie dokumentacji związanej z dowodami osobistymi"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null
+    }
+}

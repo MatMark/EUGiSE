@@ -1,0 +1,23 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Likwidacja klubu sportowego i uczniowskiego klubu sportowego",
+        "wip1": "Rozwiązanie stowarzyszenia zwykłego",
+        "wip2": "Uzyskanie rekomendacji przez organizację pozarządową",
+        "wip3": "Wpis stowarzyszenia zwykłego do ewidencji prowadzonej przez Prezydenta Wrocławia",
+        "wip4": "Założenie klubu sportowego i uczniowskiego klubu sportowego ",
+        "wip5": "Zaświadczenie z ewidencji klubów sportowych/uczniowskich klubów sportowych prowadzonej przez Prezydenta Wrocławia",
+        "wip6": "Zaświadczenie z ewidencji stowarzyszeń zwykłych prowadzonej przez Prezydenta Wrocławia",
+        "wip7": "Zgłoszenie powołania jednostki terenowej stowarzyszenia (np. oddziału, koła) bez osobowości prawnej"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null,
+        "wip4": null,
+        "wip5": null,
+        "wip6": null,
+        "wip7": null
+    }
+}

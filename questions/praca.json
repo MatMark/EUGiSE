@@ -1,0 +1,13 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Nabór pracowników na wolne stanowiska urzędnicze w Urzędzie Miejskim Wrocławia",
+        "wip1": "Praktyka zawodowa i absolwencka w Urzędzie Miejskim Wrocławia",
+        "wip2": "Staż dla osób bezrobotnych w Urzędzie Miejskim Wrocławia "
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null
+    }
+}

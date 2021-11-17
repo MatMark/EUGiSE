@@ -1,0 +1,13 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Prowadzenie handlu na ulicy – sprzedaż okrężna",
+        "wip1": "Zasady organizacji kiermaszów",
+        "wip2": "Zasady prowadzenia targowiska w mieście"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null
+    }
+}

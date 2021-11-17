@@ -1,0 +1,43 @@
+{
+   "question": "Sprawa dotyczy: ",
+   "options": {
+      "wip0": "Akt małżeństwa - odpisy i zaświadczenia z rejestru stanu cywilnego",
+      "wip1": "Akt małżeństwa – odtworzenie aktu małżeństwa sporządzonego za granicą",
+      "wip2": "Akt małżeństwa – transkrypcja zagranicznego aktu małżeństwa- przeniesienie zagranicznego aktu małżeństwa do rejestru stanu cywilnego",
+      "wip3": "Akt małżeństwa – zawarcie małżeństwa przed duchownym - ślub wyznaniowy ze skutkami cywilnoprawnymi - ślub konkordatowy",
+      "wip4": "Akt małżeństwa – zawarcie małżeństwa w urzędzie stanu cywilnego – ślub cywilny",
+      "wip5": "Akt małżeństwa – zawarcie małżeństwa za granicą",
+      "wip6": "Akt urodzenia - odpisy i zaświadczenia z rejestru stanu cywilnego",
+      "wip7": "Akt urodzenia – odtworzenie aktu urodzenia sporządzonego za granicą",
+      "wip8": "Akt urodzenia – sporządzenie aktu urodzenia dziecka pochodzącego z małżeństwa – rejestracja noworodka",
+      "wip9": "Akt urodzenia – sporządzenie aktu urodzenia dziecka, którego rodzice nie pozostają w związku małżeńskim – rejestracja noworodka – uznanie ojcostwa przy rejestracji dziecka",
+      "wip10": "Akt urodzenia – transkrypcja zagranicznego aktu urodzenia - przeniesienie zagranicznego aktu urodzenia do rejestru stanu cywilnego",
+      "wip11": "Akt zgonu - odpisy i zaświadczenia z rejestru stanu cywilnego",
+      "wip12": "Akt zgonu – odtworzenie aktu zgonu sporządzonego za granicą",
+      "wip13": "Akt zgonu – sporządzenie aktu zgonu",
+      "wip14": "Akt zgonu – transkrypcja zagranicznego aktu zgonu- przeniesienie zagranicznego aktu zgonu do rejestru stanu cywilnego ",
+      "wip15": "Prostowanie i uzupełnianie aktów stanu cywilnego",
+      "wip16": "Uznanie ojcostwa dziecka",
+      "wip17": "Zaświadczenie o stanie cywilnym"
+   },
+   "answers": {
+      "wip0": null,
+      "wip1": null,
+      "wip2": null,
+      "wip3": null,
+      "wip4": null,
+      "wip5": null,
+      "wip6": null,
+      "wip7": null,
+      "wip8": null,
+      "wip9": null,
+      "wip10": null,
+      "wip11": null,
+      "wip12": null,
+      "wip13": null,
+      "wip14": null,
+      "wip15": null,
+      "wip16": null,
+      "wip17": null
+   }
+}

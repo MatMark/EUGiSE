@@ -1,0 +1,13 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Karta parkingowa dla osoby niepełnosprawnej ",
+        "wip1": "Karta parkingowa dla placówek zajmujących się opieką, rehabilitacją lub edukacją osób niepełnosprawnych ",
+        "wip2": "Dowóz dzieci/uczniów niepełnosprawnych do szkoły/placówki"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null
+    }
+}

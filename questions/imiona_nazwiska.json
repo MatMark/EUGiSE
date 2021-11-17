@@ -1,0 +1,15 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Zmiana imienia (imion) dziecka do 6 miesięcy od sporządzenia aktu urodzenia ",
+        "wip1": "Zmiana imienia i/lub nazwiska na podstawie przepisów ustawy o zmianie imienia i nazwiska",
+        "wip2": "Zmiana nazwiska dziecka w wyniku zawarcia małżeństwa przez matkę dziecka z mężczyzną, który nie jest ojcem dziecka",
+        "wip3": "Zmiana nazwiska po rozwodzie"
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null
+    }
+}
