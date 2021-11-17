@@ -1,0 +1,19 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Rejestracja działalności gospodarczej ",
+        "wip1": "Rejestracja działalności gospodarczej - informacja o przedsiębiorcy ",
+        "wip2": "Rejestracja działalności gospodarczej - wykreślenie",
+        "wip3": "Rejestracja działalności gospodarczej - wznowienie",
+        "wip4": "Rejestracja działalności gospodarczej - zawieszenie ",
+        "wip5": "Rejestracja działalności gospodarczej – zmiana wpisu "
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null,
+        "wip4": null,
+        "wip5": null
+    }
+}

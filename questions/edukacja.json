@@ -1,0 +1,27 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "wip0": "Akademia Młodych Uczonych i Artystów ",
+        "wip1": "Konkurs na dofinansowanie projektów kół naukowych, organizacji i grup studenckich w ramach funduszu aktywności studenckich",
+        "wip2": "Postępowanie w sprawie wydania opinii dotyczącej wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony klub dziecięcy",
+        "wip3": "Rekrutacja do klas I w Szkołach Podstawowych",
+        "wip4": "Rekrutacja do klas I w Szkołach Ponadpodstawowych",
+        "wip5": "Rekrutacja do przedszkoli i oddziałów przedszkolnych",
+        "wip6": "Zgłaszanie do ewidencji punktów przedszkolnych",
+        "wip7": "Zgłaszanie do ewidencji szkół i placówek niepublicznych",
+        "wip8": "Zgłaszanie do rejestru żłobków i klubów dziecięcych",
+        "wip9": "Zgłaszanie do wykazu dziennych opiekunów "
+    },
+    "answers": {
+        "wip0": null,
+        "wip1": null,
+        "wip2": null,
+        "wip3": null,
+        "wip4": null,
+        "wip5": null,
+        "wip6": null,
+        "wip7": null,
+        "wip8": null,
+        "wip9": null
+    }
+}

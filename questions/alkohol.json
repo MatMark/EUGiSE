@@ -1,0 +1,9 @@
+{
+    "question": "Sprawa dotyczy: ",
+    "options": {
+        "zezwolenie_alko": "Zezwolenie na sprzedaż alkoholu"
+    },
+    "answers": {
+        "zezwolenie_alko": null
+    }
+}

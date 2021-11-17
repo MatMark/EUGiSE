@@ -1,0 +1,11 @@
+{
+    "question": "Czy wszystkie dane zostały wprowadzone prawidłowo: ",
+    "options": {
+        "tak": "Tak",
+        "nie": "Nie"
+    },
+    "answers": {
+        "tak": null,
+        "nie": null
+    }
+}
