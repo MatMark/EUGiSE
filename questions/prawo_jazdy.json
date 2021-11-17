@@ -1,5 +1,5 @@
 {
-    "question": "Sprawa dotyczy: ",
+    "question": "Typ sprawy: ",
     "options": {
         "prawo_jazdy_tramwaj": "Pozwolenie na kierowanie tramwajem",
         "wip2": "Międzynarodowe prawo jazdy",

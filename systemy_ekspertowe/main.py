@@ -33,9 +33,9 @@ class Menu():
         q = json.load(f)
         num = 0
         if(len(self.last_questions) > 0):
-            print('\n{}: {}'.format(0, 'wróć'))
+            print('\n{}: {}'.format(0, 'Wróć'))
         else:
-            print('\n{}: {}'.format(0, 'wyjdź'))
+            print('\n{}: {}'.format(0, 'Wyjdź'))
         for v in q['options'].values():
             num += 1
             print('{}: {}'.format(num, v))
