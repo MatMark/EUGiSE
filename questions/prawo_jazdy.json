@@ -1,35 +1,23 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Pozwolenie na kierowanie tramwajem - wymiana",
-        "wip1": "Pozwolenie na kierowanie tramwajem – wydanie wtórnika",
-        "wip2": "Prawo jazdy - międzynarodowe prawo jazdy",
-        "wip3": "Prawo jazdy - wydanie dokumentu po egzaminie państwowym /nowe uprawnienia/",
-        "wip4": "Prawo jazdy - wydanie wtórnika",
-        "wip5": "Prawo jazdy - wydawanie zezwolenia na kierowanie pojazdem uprzywilejowanym lub pojazdem przewożącym wartości pieniężne",
-        "wip6": "Prawo jazdy - wymiana",
-        "wip7": "Prawo jazdy - wymiana  zagranicznego prawa jazdy  nieokreślonego w konwencjach o ruchu drogowym",
-        "wip8": "Prawo jazdy - wymiana prawa jazdy dla kierowców ubiegających się o wpis potwierdzający ukończenie kwalifikacji wstępnej lub okresowej",
-        "wip9": "Prawo jazdy - wymiana zagranicznego prawa jazdy wydanego przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym",
-        "wip10": "Prawo jazdy – wymiana dokumentu wydanego przez władze Ukrainy",
-        "wip11": "Prawo jazdy, pozwolenie tramwajowe, międzynarodowe prawo jazdy - odbiór gotowego dokumentu",
-        "wip12": "Profil kandydata na kierowcę /PKK/ - dla osoby zamierzającej przystąpić do szkolenia na prawo jazdy",
-        "wip13": "Profil kandydata na kierowcę /PKK/ - na egzamin kontrolny, skierowania na egzaminy sprawdzające kwalifikacje oraz decyzje o skierowaniu na badania lekarskie  i psychologiczne,  kurs reedukacyjny w zakresie problematyki alkoholowej i przeciwdzxiałania narkomanii oraz zwrot zatrzymanych praw jazdy po upływie zakazu kierowania pojazdami silnikowymi"
+        "prawo_jazdy_tramwaj": "Pozwolenie na kierowanie tramwajem",
+        "wip2": "Międzynarodowe prawo jazdy",
+        "wip3": "Wydanie dokumentu po egzaminie państwowym nowe uprawnienia",
+        "wip4": "Wydanie wtórnika",
+        "wip5": "Wydawanie zezwolenia na kierowanie pojazdem uprzywilejowanym lub pojazdem przewożącym wartości pieniężne",
+        "prawo_jazdy_wymiana": "Prawo jazdy - wymiana",
+        "wip11": "Odbiór gotowego dokumentu",
+        "prawo_jazdy_pkk": "Profil kandydata na kierowcę PKK"
     },
     "answers": {
-        "wip0": null,
-        "wip1": null,
+        "prawo_jazdy_tramwaj": "Dział Uprawnień Kierowców\n________________________________________",
         "wip2": null,
         "wip3": null,
         "wip4": null,
         "wip5": null,
-        "wip6": null,
-        "wip7": null,
-        "wip8": null,
-        "wip9": null,
-        "wip10": null,
+        "prawo_jazdy_wymiana": "Dział Uprawnień Kierowców\n________________________________________",
         "wip11": null,
-        "wip12": null,
-        "wip13": null
+        "prawo_jazdy_pkk": "Dział Uprawnień Kierowców\n________________________________________"
     }
 }

@@ -1,0 +1,11 @@
+{
+    "question": "Czy jesteś osobą pełnoletnią: ",
+    "options": {
+        "end": "Tak",
+        "end!": "Nie"
+    },
+    "answers": {
+        "end": null,
+        "end!": "Pisemna zgoda rodzica lub opiekuna"
+    }
+}

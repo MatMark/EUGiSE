@@ -1,11 +1,11 @@
 {
     "question": "Czy wszystkie dane zostały wprowadzone prawidłowo: ",
     "options": {
-        "tak": "Tak",
-        "nie": "Nie"
+        "break": "Tak",
+        "back": "Nie"
     },
     "answers": {
-        "tak": null,
-        "nie": null
+        "break": null,
+        "back": null
     }
 }

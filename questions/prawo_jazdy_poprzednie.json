@@ -1,0 +1,11 @@
+{
+    "question": "Czy posiadasz już prawo jazdy: ",
+    "options": {
+        "prawo_jazdy_kategoria": "Tak",
+        "prawo_jazdy_kategoria!": "Nie"
+    },
+    "answers": {
+        "prawo_jazdy_kategoria": "Ksero poprzedniego prawa jazdy",
+        "prawo_jazdy_kategoria!": null
+    }
+}

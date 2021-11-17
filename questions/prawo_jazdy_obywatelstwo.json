@@ -1,0 +1,11 @@
+{
+    "question": "Czy posiadasz Polskie obywatelstwo: ",
+    "options": {
+        "prawo_jazdy_zabrane": "Tak",
+        "prawo_jazdy_zabrane!": "Nie"
+    },
+    "answers": {
+        "prawo_jazdy_zabrane": "Dowód osobisty lub paszport",
+        "prawo_jazdy_zabrane!": "Karta polaka lub pozwolenie na pobyt"
+    }
+}
