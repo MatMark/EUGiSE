@@ -1,11 +1,11 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Repatriacja -  wnioski pracodawcy o zwrot czÄ™Å›ci kosztÃ³w poniesionych na aktywizacjÄ™ zawodowÄ…  repatrianta",
-        "wip1": "Repatriacja - wniosek kandydata na repatrianta o zapewnienie warunkÃ³w do osiedlenia siÄ™ we WrocÅ‚awiu.",
-        "wip2": "Repatriacja - wniosek repatrianta o przyznanie pomocy ze Å›rodkÃ³w budÅ¼etu paÅ„stwa na czÄ™Å›ciowe pokrycie kosztÃ³w zwiÄ…zanych z remontem, adaptacjÄ… lub wyposaÅ¼eniem lokalu mieszkalnego",
-        "wip3": "Repatriacja - wniosek repatrianta o zwrot czÄ™Å›ci kosztÃ³w poniesionych na podnoszenie kwalifikacji zawodowych",
-        "wip4": "Repatriacja â€“ wniosek o wypÅ‚atÄ™ Å›rodkÃ³w z budÅ¼etu paÅ„stwa przyznanych decyzjÄ… PeÅ‚nomocnika RzÄ…du do Spraw Repatriacji na pokrycie kosztÃ³w przejazdu, zagospodarowanie i bieÅ¼Ä…ce utrzymanie, pokrycie kosztÃ³w zwiÄ…zanych z podjÄ™ciem  w Rzeczypospolitej  Polskiej nauki przez osobÄ™ maÅ‚oletniÄ…"
+        "wip0": "Repatriacja -  wnioski pracodawcy o zwrot czêœci kosztów poniesionych na aktywizacjê zawodow¹  repatrianta",
+        "wip1": "Repatriacja - wniosek kandydata na repatrianta o zapewnienie warunków do osiedlenia siê we Wroc³awiu.",
+        "wip2": "Repatriacja - wniosek repatrianta o przyznanie pomocy ze œrodków bud¿etu pañstwa na czêœciowe pokrycie kosztów zwi¹zanych z remontem, adaptacj¹ lub wyposa¿eniem lokalu mieszkalnego",
+        "wip3": "Repatriacja - wniosek repatrianta o zwrot czêœci kosztów poniesionych na podnoszenie kwalifikacji zawodowych",
+        "wip4": "Repatriacja – wniosek o wyp³atê œrodków z bud¿etu pañstwa przyznanych decyzj¹ Pe³nomocnika Rz¹du do Spraw Repatriacji na pokrycie kosztów przejazdu, zagospodarowanie i bie¿¹ce utrzymanie, pokrycie kosztów zwi¹zanych z podjêciem  w Rzeczypospolitej  Polskiej nauki przez osobê ma³oletni¹"
     },
     "answers": {
         "wip0": null,

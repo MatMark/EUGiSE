@@ -1,11 +1,11 @@
 {
-    "question": "Czy cofniÄ™to Ci uprawnienia do kierowania pojazdami: ",
+    "question": "Czy cofniêto Ci uprawnienia do kierowania pojazdami: ",
     "options": {
         "prawo_jazdy_poprzednie": "Tak",
         "prawo_jazdy_poprzednie!": "Nie"
     },
     "answers": {
-        "prawo_jazdy_poprzednie": "Orzeczenie psychologa o braku przeciwwskazaÅ„ psychologicznych do kierowania pojazdem",
+        "prawo_jazdy_poprzednie": "Orzeczenie psychologa o braku przeciwwskazañ psychologicznych do kierowania pojazdem",
         "prawo_jazdy_poprzednie!": null
     }
 }

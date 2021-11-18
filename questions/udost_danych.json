@@ -1,10 +1,10 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Dane osobowe â€“ udostÄ™pnianie danych osobowych z rejestru mieszkaÅ„cÃ³w i rejestru PESEL",
-        "wip1": "UdostÄ™pnienie danych z Rejestru DowodÃ³w Osobistych",
-        "wip2": "UdostÄ™pnienie dokumentacji z zasobu archiwum zakÅ‚adowego UrzÄ™du Miejskiego WrocÅ‚awia",
-        "wip3": "UdostÄ™pnienie dokumentacji zwiÄ…zanej z dowodami osobistymi"
+        "wip0": "Dane osobowe – udostêpnianie danych osobowych z rejestru mieszkañców i rejestru PESEL",
+        "wip1": "Udostêpnienie danych z Rejestru Dowodów Osobistych",
+        "wip2": "Udostêpnienie dokumentacji z zasobu archiwum zak³adowego Urzêdu Miejskiego Wroc³awia",
+        "wip3": "Udostêpnienie dokumentacji zwi¹zanej z dowodami osobistymi"
     },
     "answers": {
         "wip0": null,

@@ -1,9 +1,9 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Zmiana imienia (imion) dziecka do 6 miesiÄ™cy od sporzÄ…dzenia aktu urodzenia ",
-        "wip1": "Zmiana imienia i/lub nazwiska na podstawie przepisÃ³w ustawy o zmianie imienia i nazwiska",
-        "wip2": "Zmiana nazwiska dziecka w wyniku zawarcia maÅ‚Å¼eÅ„stwa przez matkÄ™ dziecka z mÄ™Å¼czyznÄ…, ktÃ³ry nie jest ojcem dziecka",
+        "wip0": "Zmiana imienia (imion) dziecka do 6 miesiêcy od sporz¹dzenia aktu urodzenia ",
+        "wip1": "Zmiana imienia i/lub nazwiska na podstawie przepisów ustawy o zmianie imienia i nazwiska",
+        "wip2": "Zmiana nazwiska dziecka w wyniku zawarcia ma³¿eñstwa przez matkê dziecka z mê¿czyzn¹, który nie jest ojcem dziecka",
         "wip3": "Zmiana nazwiska po rozwodzie"
     },
     "answers": {

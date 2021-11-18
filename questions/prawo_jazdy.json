@@ -2,22 +2,22 @@
     "question": "Typ sprawy: ",
     "options": {
         "prawo_jazdy_tramwaj": "Pozwolenie na kierowanie tramwajem",
-        "wip2": "MiÄ™dzynarodowe prawo jazdy",
-        "wip3": "Wydanie dokumentu po egzaminie paÅ„stwowym nowe uprawnienia",
-        "wip4": "Wydanie wtÃ³rnika",
-        "wip5": "Wydawanie zezwolenia na kierowanie pojazdem uprzywilejowanym lub pojazdem przewoÅ¼Ä…cym wartoÅ›ci pieniÄ™Å¼ne",
+        "wip2": "Miêdzynarodowe prawo jazdy",
+        "wip3": "Wydanie dokumentu po egzaminie pañstwowym nowe uprawnienia",
+        "wip4": "Wydanie wtórnika",
+        "wip5": "Wydawanie zezwolenia na kierowanie pojazdem uprzywilejowanym lub pojazdem przewo¿¹cym wartoœci pieniê¿ne",
         "prawo_jazdy_wymiana": "Prawo jazdy - wymiana",
-        "wip11": "OdbiÃ³r gotowego dokumentu",
-        "prawo_jazdy_pkk": "Profil kandydata na kierowcÄ™ PKK"
+        "wip11": "Odbiór gotowego dokumentu",
+        "prawo_jazdy_pkk": "Profil kandydata na kierowcê PKK"
     },
     "answers": {
-        "prawo_jazdy_tramwaj": "DziaÅ‚ UprawnieÅ„ KierowcÃ³w\n________________________________________",
+        "prawo_jazdy_tramwaj": "Dzia³ Uprawnieñ Kierowców\n________________________________________",
         "wip2": null,
         "wip3": null,
         "wip4": null,
         "wip5": null,
-        "prawo_jazdy_wymiana": "DziaÅ‚ UprawnieÅ„ KierowcÃ³w\n________________________________________",
+        "prawo_jazdy_wymiana": "Dzia³ Uprawnieñ Kierowców\n________________________________________",
         "wip11": null,
-        "prawo_jazdy_pkk": "DziaÅ‚ UprawnieÅ„ KierowcÃ³w\n________________________________________"
+        "prawo_jazdy_pkk": "Dzia³ Uprawnieñ Kierowców\n________________________________________"
     }
 }

@@ -1,12 +1,12 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Rejestracja dzia≈Çalno≈õci gospodarczej ",
-        "wip1": "Rejestracja dzia≈Çalno≈õci gospodarczej - informacja o przedsiƒôbiorcy ",
-        "wip2": "Rejestracja dzia≈Çalno≈õci gospodarczej - wykre≈õlenie",
-        "wip3": "Rejestracja dzia≈Çalno≈õci gospodarczej - wznowienie",
-        "wip4": "Rejestracja dzia≈Çalno≈õci gospodarczej - zawieszenie ",
-        "wip5": "Rejestracja dzia≈Çalno≈õci gospodarczej ‚Äì zmiana wpisu "
+        "wip0": "Rejestracja dzia≥alnoúci gospodarczej ",
+        "wip1": "Rejestracja dzia≥alnoúci gospodarczej - informacja o przedsiÍbiorcy ",
+        "wip2": "Rejestracja dzia≥alnoúci gospodarczej - wykreúlenie",
+        "wip3": "Rejestracja dzia≥alnoúci gospodarczej - wznowienie",
+        "wip4": "Rejestracja dzia≥alnoúci gospodarczej - zawieszenie ",
+        "wip5": "Rejestracja dzia≥alnoúci gospodarczej ñ zmiana wpisu "
     },
     "answers": {
         "wip0": null,

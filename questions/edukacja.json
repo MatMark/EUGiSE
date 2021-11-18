@@ -1,16 +1,16 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Akademia MÅ‚odych Uczonych i ArtystÃ³w ",
-        "wip1": "Konkurs na dofinansowanie projektÃ³w kÃ³Å‚ naukowych, organizacji i grup studenckich w ramach funduszu aktywnoÅ›ci studenckich",
-        "wip2": "PostÄ™powanie w sprawie wydania opinii dotyczÄ…cej wymagaÅ„ lokalowych i sanitarnych jakie musi speÅ‚niaÄ‡ lokal, w ktÃ³rym ma byÄ‡ prowadzony klub dzieciÄ™cy",
-        "wip3": "Rekrutacja do klas I w SzkoÅ‚ach Podstawowych",
-        "wip4": "Rekrutacja do klas I w SzkoÅ‚ach Ponadpodstawowych",
-        "wip5": "Rekrutacja do przedszkoli i oddziaÅ‚Ã³w przedszkolnych",
-        "wip6": "ZgÅ‚aszanie do ewidencji punktÃ³w przedszkolnych",
-        "wip7": "ZgÅ‚aszanie do ewidencji szkÃ³Å‚ i placÃ³wek niepublicznych",
-        "wip8": "ZgÅ‚aszanie do rejestru Å¼Å‚obkÃ³w i klubÃ³w dzieciÄ™cych",
-        "wip9": "ZgÅ‚aszanie do wykazu dziennych opiekunÃ³w "
+        "wip0": "Akademia M³odych Uczonych i Artystów ",
+        "wip1": "Konkurs na dofinansowanie projektów kó³ naukowych, organizacji i grup studenckich w ramach funduszu aktywnoœci studenckich",
+        "wip2": "Postêpowanie w sprawie wydania opinii dotycz¹cej wymagañ lokalowych i sanitarnych jakie musi spe³niaæ lokal, w którym ma byæ prowadzony klub dzieciêcy",
+        "wip3": "Rekrutacja do klas I w Szko³ach Podstawowych",
+        "wip4": "Rekrutacja do klas I w Szko³ach Ponadpodstawowych",
+        "wip5": "Rekrutacja do przedszkoli i oddzia³ów przedszkolnych",
+        "wip6": "Zg³aszanie do ewidencji punktów przedszkolnych",
+        "wip7": "Zg³aszanie do ewidencji szkó³ i placówek niepublicznych",
+        "wip8": "Zg³aszanie do rejestru ¿³obków i klubów dzieciêcych",
+        "wip9": "Zg³aszanie do wykazu dziennych opiekunów "
     },
     "answers": {
         "wip0": null,

@@ -2,13 +2,13 @@
     "question": "Sprawa dotyczy: ",
     "options": {
         "wip0": "Nadanie numeru PESEL",
-        "wip1": "Wymeldowanie z miejsca pobytu sta≈Çego i czasowego",
-        "wip2": "Zameldowanie (wymeldowanie) decyzjƒÖ administracyjnƒÖ na pobyt sta≈Çy i czasowy. Anulowanie powy≈ºszej czynno≈õci w drodze decyzji administracyjnej.",
-        "wip3": "Zameldowanie na pobyt czasowy cudzoziemc√≥w ",
+        "wip1": "Wymeldowanie z miejsca pobytu sta≥ego i czasowego",
+        "wip2": "Zameldowanie (wymeldowanie) decyzjπ administracyjnπ na pobyt sta≥y i czasowy. Anulowanie powyøszej czynnoúci w drodze decyzji administracyjnej.",
+        "wip3": "Zameldowanie na pobyt czasowy cudzoziemcÛw ",
         "wip4": "Zameldowanie na pobyt czasowy obywateli polskich",
-        "wip5": "Zameldowanie na pobyt sta≈Çy cudzoziemc√≥w",
-        "wip6": "Zameldowanie na pobyt sta≈Çy obywateli polskich",
-        "wip7": "Za≈õwiadczenia z akt ewidencji ludno≈õci"
+        "wip5": "Zameldowanie na pobyt sta≥y cudzoziemcÛw",
+        "wip6": "Zameldowanie na pobyt sta≥y obywateli polskich",
+        "wip7": "Zaúwiadczenia z akt ewidencji ludnoúci"
     },
     "answers": {
         "wip0": null,

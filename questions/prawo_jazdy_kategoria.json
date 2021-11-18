@@ -1,5 +1,5 @@
 {
-    "question": "Kategoria prawa jazdy o ktÃ³re siÄ™ ubiegasz: ",
+    "question": "Kategoria prawa jazdy o które siê ubiegasz: ",
     "options": {
         "end": "A2, A, B lub B+E",
         "prawo_jazdy_wiek": "AM, A1, B1 lub T",
@@ -8,6 +8,6 @@
     "answers": {
         "end": null,
         "prawo_jazdy_wiek": null,
-        "end!": "Orzeczenie psychologa o braku przeciwwskazaÅ„ psychologicznych do kierowania pojazdem"
+        "end!": "Orzeczenie psychologa o braku przeciwwskazañ psychologicznych do kierowania pojazdem"
     }
 }

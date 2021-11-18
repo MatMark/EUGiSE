@@ -1,11 +1,11 @@
 {
-    "question": "Czy orzeczono zakaz kierowania pojazdem za jazdÄ™ pod wpÅ‚ywem alkoholu lub Å›rodkÃ³w odurzajÄ…cych: ",
+    "question": "Czy orzeczono zakaz kierowania pojazdem za jazdê pod wp³ywem alkoholu lub œrodków odurzaj¹cych: ",
     "options": {
         "end": "Tak",
         "end!": "Nie"
     },
     "answers": {
-        "end": "OryginaÅ‚ orzeczenia lekarskiego o braku przeciwwskazaÅ„ do prowadzenia pojazdÃ³w\nOrzeczenie psychologa o braku przeciwwskazaÅ„ psychologicznych do kierowania pojazdem",
+        "end": "Orygina³ orzeczenia lekarskiego o braku przeciwwskazañ do prowadzenia pojazdów\nOrzeczenie psychologa o braku przeciwwskazañ psychologicznych do kierowania pojazdem",
         "end!": null
     }
 }

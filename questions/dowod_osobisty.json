@@ -1,11 +1,11 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip1": "DowÃ³d osobisty - odbiÃ³r gotowego dokumentu ",
-        "wip2": "DowÃ³d osobisty - zawiadomienie o utracie/uszkodzeniu dokumentu",
-        "wip3": "DowÃ³d osobisty - zawieszanie i cofanie zawieszenia certyfikatÃ³w zamieszczonych w warstwie elektronicznej dowodu osobistego",
-        "wip4": "DowÃ³d osobisty - zgÅ‚oszenie nieuprawnionego wykorzystania danych osobowych ",
-        "wip5": "DowÃ³d osobisty â€“ wniosek o wydanie dokumentu"
+        "wip1": "Dowód osobisty - odbiór gotowego dokumentu ",
+        "wip2": "Dowód osobisty - zawiadomienie o utracie/uszkodzeniu dokumentu",
+        "wip3": "Dowód osobisty - zawieszanie i cofanie zawieszenia certyfikatów zamieszczonych w warstwie elektronicznej dowodu osobistego",
+        "wip4": "Dowód osobisty - zg³oszenie nieuprawnionego wykorzystania danych osobowych ",
+        "wip5": "Dowód osobisty – wniosek o wydanie dokumentu"
     },
     "answers": {
         "wip1": null,

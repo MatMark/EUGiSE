@@ -2,10 +2,10 @@
     "question": "Sprawa dotyczy: ",
     "options": {
         "wip0": "Wymiana standardowego prawa jazdy",
-        "wip1": "Wymiana  zagranicznego prawa jazdy  nieokreÅ›lonego w konwencjach o ruchu drogowym",
-        "wip2": "Wymiana prawa jazdy dla kierowcÃ³w ubiegajÄ…cych siÄ™ o wpis potwierdzajÄ…cy ukoÅ„czenie kwalifikacji wstÄ™pnej lub okresowej",
-        "wip3": "Wymiana zagranicznego prawa jazdy wydanego przez paÅ„stwo czÅ‚onkowskie Unii Europejskiej, KonfederacjÄ™ SzwajcarskÄ…, paÅ„stwo czÅ‚onkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym",
-        "wip4": "Wymiana dokumentu wydanego przez wÅ‚adze Ukrainy"
+        "wip1": "Wymiana  zagranicznego prawa jazdy  nieokreœlonego w konwencjach o ruchu drogowym",
+        "wip2": "Wymiana prawa jazdy dla kierowców ubiegaj¹cych siê o wpis potwierdzaj¹cy ukoñczenie kwalifikacji wstêpnej lub okresowej",
+        "wip3": "Wymiana zagranicznego prawa jazdy wydanego przez pañstwo cz³onkowskie Unii Europejskiej, Konfederacjê Szwajcarsk¹, pañstwo cz³onkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym",
+        "wip4": "Wymiana dokumentu wydanego przez w³adze Ukrainy"
     },
     "answers": {
         "wip0": null,

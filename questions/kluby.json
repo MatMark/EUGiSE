@@ -2,13 +2,13 @@
     "question": "Sprawa dotyczy: ",
     "options": {
         "wip0": "Likwidacja klubu sportowego i uczniowskiego klubu sportowego",
-        "wip1": "RozwiƒÖzanie stowarzyszenia zwyk≈Çego",
-        "wip2": "Uzyskanie rekomendacji przez organizacjƒô pozarzƒÖdowƒÖ",
-        "wip3": "Wpis stowarzyszenia zwyk≈Çego do ewidencji prowadzonej przez Prezydenta Wroc≈Çawia",
-        "wip4": "Za≈Ço≈ºenie klubu sportowego i uczniowskiego klubu sportowego ",
-        "wip5": "Za≈õwiadczenie z ewidencji klub√≥w sportowych/uczniowskich klub√≥w sportowych prowadzonej przez Prezydenta Wroc≈Çawia",
-        "wip6": "Za≈õwiadczenie z ewidencji stowarzysze≈Ñ zwyk≈Çych prowadzonej przez Prezydenta Wroc≈Çawia",
-        "wip7": "Zg≈Çoszenie powo≈Çania jednostki terenowej stowarzyszenia (np. oddzia≈Çu, ko≈Ça) bez osobowo≈õci prawnej"
+        "wip1": "Rozwiπzanie stowarzyszenia zwyk≥ego",
+        "wip2": "Uzyskanie rekomendacji przez organizacjÍ pozarzπdowπ",
+        "wip3": "Wpis stowarzyszenia zwyk≥ego do ewidencji prowadzonej przez Prezydenta Wroc≥awia",
+        "wip4": "Za≥oøenie klubu sportowego i uczniowskiego klubu sportowego ",
+        "wip5": "Zaúwiadczenie z ewidencji klubÛw sportowych/uczniowskich klubÛw sportowych prowadzonej przez Prezydenta Wroc≥awia",
+        "wip6": "Zaúwiadczenie z ewidencji stowarzyszeÒ zwyk≥ych prowadzonej przez Prezydenta Wroc≥awia",
+        "wip7": "Zg≥oszenie powo≥ania jednostki terenowej stowarzyszenia (np. oddzia≥u, ko≥a) bez osobowoúci prawnej"
     },
     "answers": {
         "wip0": null,

@@ -1,11 +1,11 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "prawo_jazdy_obywatelstwo": "Dla osoby zamierzajÄ…cej przystÄ…piÄ‡ do szkolenia na prawo jazdy",
-        "prawo_jazdy_2002": "Na egzamin kontrolny, skierowania na egzaminy sprawdzajÄ…ce kwalifikacje oraz decyzje o skierowaniu na badania lekarskie  i psychologiczne,  kurs reedukacyjny w zakresie problematyki alkoholowej i przeciwdziaÅ‚ania narkomanii oraz zwrot zatrzymanych praw jazdy po upÅ‚ywie zakazu kierowania pojazdami silnikowymi"
+        "prawo_jazdy_obywatelstwo": "Dla osoby zamierzaj¹cej przyst¹piæ do szkolenia na prawo jazdy",
+        "prawo_jazdy_2002": "Na egzamin kontrolny, skierowania na egzaminy sprawdzaj¹ce kwalifikacje oraz decyzje o skierowaniu na badania lekarskie  i psychologiczne,  kurs reedukacyjny w zakresie problematyki alkoholowej i przeciwdzia³ania narkomanii oraz zwrot zatrzymanych praw jazdy po up³ywie zakazu kierowania pojazdami silnikowymi"
     },
     "answers": {
-        "prawo_jazdy_obywatelstwo": "WypeÅ‚niony wniosek o wydanie prawa jazdy\nFotografia 3,5x4,5cm\nOryginaÅ‚ orzeczenia lekarskiego o braku przeciwwskazaÅ„ do prowadzenia pojazdÃ³w\nPotwierdzenie przelewu opÅ‚aty za wydanie prawa jazdy",
-        "prawo_jazdy_2002": "Wniosek o zwrot zatrzymanego prawa jazdy/przywrÃ³cenie cofniÄ™tego uprawnienia\nDowÃ³d osobisty lub paszport\nPotwierdzenie przelewu opÅ‚aty ewidencyjnej"
+        "prawo_jazdy_obywatelstwo": "Wype³niony wniosek o wydanie prawa jazdy\nFotografia 3,5x4,5cm\nOrygina³ orzeczenia lekarskiego o braku przeciwwskazañ do prowadzenia pojazdów\nPotwierdzenie przelewu op³aty za wydanie prawa jazdy",
+        "prawo_jazdy_2002": "Wniosek o zwrot zatrzymanego prawa jazdy/przywrócenie cofniêtego uprawnienia\nDowód osobisty lub paszport\nPotwierdzenie przelewu op³aty ewidencyjnej"
     }
 }

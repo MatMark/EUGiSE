@@ -1,9 +1,9 @@
 {
     "question": "Sprawa dotyczy: ",
     "options": {
-        "wip0": "Informacja dotyczÄ…ca udzielania Å›wiadczeÅ„ pieniÄ™Å¼nych rekompensujÄ…cych utracone wynagrodzenie Å¼oÅ‚nierzom rezerwy odbywajÄ…cym Ä‡wiczenia wojskowe",
+        "wip0": "Informacja dotycz¹ca udzielania œwiadczeñ pieniê¿nych rekompensuj¹cych utracone wynagrodzenie ¿o³nierzom rezerwy odbywaj¹cym æwiczenia wojskowe",
         "wip1": "Kwalifikacja wojskowa ",
-        "wip2": "Åšwiadczenia na rzecz obrony"
+        "wip2": "Œwiadczenia na rzecz obrony"
     },
     "answers": {
         "wip0": null,
