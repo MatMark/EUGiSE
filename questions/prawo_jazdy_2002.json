@@ -1,0 +1,11 @@
+{
+    "question": "Czy prawo jazdy zostało wydane przed 2002 rokiem: ",
+    "options": {
+        "prawo_jazdy_alkohol": "Tak",
+        "prawo_jazdy_alkohol!": "Nie"
+    },
+    "answers": {
+        "prawo_jazdy_alkohol": "Fotografia 3,5x4,5cm",
+        "prawo_jazdy_alkohol!": null
+    }
+}

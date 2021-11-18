@@ -2,10 +2,10 @@
     "question": "Sprawa dotyczy: ",
     "options": {
         "prawo_jazdy_obywatelstwo": "Dla osoby zamierzającej przystąpić do szkolenia na prawo jazdy",
-        "wip13": "Na egzamin kontrolny, skierowania na egzaminy sprawdzające kwalifikacje oraz decyzje o skierowaniu na badania lekarskie  i psychologiczne,  kurs reedukacyjny w zakresie problematyki alkoholowej i przeciwdziałania narkomanii oraz zwrot zatrzymanych praw jazdy po upływie zakazu kierowania pojazdami silnikowymi"
+        "prawo_jazdy_2002": "Na egzamin kontrolny, skierowania na egzaminy sprawdzające kwalifikacje oraz decyzje o skierowaniu na badania lekarskie  i psychologiczne,  kurs reedukacyjny w zakresie problematyki alkoholowej i przeciwdziałania narkomanii oraz zwrot zatrzymanych praw jazdy po upływie zakazu kierowania pojazdami silnikowymi"
     },
     "answers": {
         "prawo_jazdy_obywatelstwo": "Wypełniony wniosek o wydanie prawa jazdy\nFotografia 3,5x4,5cm\nOryginał orzeczenia lekarskiego o braku przeciwwskazań do prowadzenia pojazdów\nPotwierdzenie przelewu opłaty za wydanie prawa jazdy",
-        "wip13": null
+        "prawo_jazdy_2002": "Wniosek o zwrot zatrzymanego prawa jazdy/przywrócenie cofniętego uprawnienia\nDowód osobisty lub paszport\nPotwierdzenie przelewu opłaty ewidencyjnej"
     }
 }
